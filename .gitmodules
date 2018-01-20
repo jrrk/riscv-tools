@@ -12,7 +12,7 @@
 	url = https://github.com/riscv/riscv-opcodes.git
 [submodule "riscv-tests"]
 	path = riscv-tests
-	url = https://github.com/riscv/riscv-tests.git
+	url = https://github.com/jrrk/riscv-tests.git
 [submodule "riscv-llvm"]
 	path = riscv-llvm
 	url = https://github.com/riscv/riscv-llvm.git
